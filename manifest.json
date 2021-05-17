@@ -1,0 +1,9 @@
+{
+    "name": "macOS Titlebar",
+    "description": "Replicates the Discord macOS titlebar on Windows.",
+    "version": "1.0.0",
+    "author": "LuckFire#4800",
+    "theme": "index.scss",
+    "consent": "true",
+    "license": "MIT"
+}
