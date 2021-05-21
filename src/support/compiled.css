@@ -1,58 +1,47 @@
 .platform-win .titleBar-AC4pGV.directionRowReverse-m8IjIq {
     position: fixed;
     z-index: 102;
-    top: -8px;
     flex-direction: row;
     width: 100%;
     height: 0;
 }
+.platform-win .titleBar-AC4pGV.directionRowReverse-m8IjIq .wordmark-2iDDfm {
+    display: none;
+}
 .platform-win .titleBar-AC4pGV.directionRowReverse-m8IjIq::after {
     position: absolute;
-    top: 13px;
+    top: 5px;
     left: 10px;
     content: "";
     width: 52px;
     height: 14px;
     border-radius: 25px;
-    background-color: transparent;
 }
 .platform-win .titleBar-AC4pGV.directionRowReverse-m8IjIq:hover .winButton-iRh8-Z {
     background-size: 100%;
 }
-.platform-win .layer-3QrUeG[aria-label$=SETTINGS]::before,
-.platform-win .pageWrapper-1PgVDX::before {
+.platform-win .titleBar-AC4pGV.directionRowReverse-m8IjIq::before {
     position: absolute;
-    z-index: 103;
-    content: "";
-    height: 35px;
-    background: transparent;
-    -webkit-app-region: drag;
-}
-.platform-win .layer-3QrUeG[aria-label$=SETTINGS]::before {
-    top: 22px;
+    top: -4px;
     right: 0;
     left: 72px;
-    width: 96%;
-}
-.platform-win .pageWrapper-1PgVDX::before {
-    top: 0;
-    right: 16px;
-    left: 0;
-}
-.platform-win .pageWrapper-1PgVDX .searchHeader-2I26nG,
-.platform-win .pageWrapper-1PgVDX .loaded-1eBnjq {
-    -webkit-app-region: no-drag;
-}
-.platform-win .container-1r6BKw {
+    content: "";
+    height: 52px;
     -webkit-app-region: drag;
 }
-.platform-win .container-1r6BKw .topic-TCb_qw.expandable-9fI_e3,
-.platform-win .container-1r6BKw .toolbar-1t6TWx {
+.platform-win .container-1r6BKw {
+    z-index: 102;
+}
+.platform-win .sidebar-2K8pFh,
+.platform-win .topic-TCb_qw.expandable-9fI_e3,
+.platform-win .pageWrapper-1PgVDX .searchBox-3Y2Vi7,
+.platform-win .pageWrapper-1PgVDX .card-3DjzTQ {
+    z-index: 102;
     -webkit-app-region: no-drag;
 }
 .platform-win .winButton-iRh8-Z {
     z-index: 1003;
-    top: 9px;
+    top: 1px;
     left: 11px;
     width: 12px;
     height: 12px;
@@ -63,6 +52,20 @@
 }
 .platform-win .winButton-iRh8-Z svg {
     display: none;
+}
+.platform-win .winButton-iRh8-Z[aria-label=Maximize] {
+    order: 3;
+}
+.platform-win [aria-label$=SETTINGS]::after {
+    position: absolute;
+    z-index: 101;
+    top: 28px;
+    left: 7px;
+    content: "";
+    width: 58px;
+    height: 20px;
+    border-radius: 25px;
+    background-color: var(--background-tertiary);
 }
 .platform-win.app-focused .winButtonClose-1HsbF- {
     background: #FC615D 
@@ -82,16 +85,10 @@
                 center/0% 
                 no-repeat;
 }
-.platform-win .wordmark-2iDDfm {
-    display: none;
+.platform-win .guilds-1SWlCJ .scroller-1Bvpku {
+    margin-top: 28px;
 }
-.platform-win .winButtonMinMax-PBQ2gm[aria-label=Maximize] {
-    order: 3;
-}
-.platform-win .guilds-1SWlCJ {
-    padding-top: 28px;
-}
-.platform-win .unreadMentionsIndicatorTop-2-tcdU {
+.platform-win .guilds-1SWlCJ .unreadMentionsIndicatorTop-2-tcdU {
     margin-top: 23px;
 }
 .platform-win .sidebar-2K8pFh {

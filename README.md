@@ -16,5 +16,5 @@ git clone https://github.com/Discord-Theme-Addons/macos-titlebar
 - [View Source](https://discord-theme-addons.github.io/macos-titlebar/src/support/compiled.css)
 
 ## Credits
-Thanks for the help!
-- **[Hoofer](https://github.com/HooferDevelops)** for making the macOS icons (for when hovering).
+Appreciate the help!
+- **[Hoofer](https://github.com/HooferDevelops)** for making the macOS icons (for hovering).
