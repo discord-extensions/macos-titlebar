@@ -12,7 +12,7 @@ git clone https://github.com/Discord-Theme-Addons/macos-titlebar
 ```
 
 **For BetterDiscord:**
-- [Direct Download](https://github.com/Discord-Theme-Addons/macos-titlebar/releases/download/1.0.0/macOS-Titlebar.theme.css)
+- [Direct Download](https://github.com/Discord-Theme-Addons/macos-titlebar/releases/download/1.0.1/macOS-Titlebar.theme.css)
 - [View Source](https://discord-theme-addons.github.io/macos-titlebar/src/support/compiled.css)
 
 ## Credits
