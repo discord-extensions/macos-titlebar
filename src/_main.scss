@@ -109,6 +109,9 @@
 
     // guildlist fixes
     .guilds-1SWlCJ {
+        ul:focus {
+            outline: none;
+        }
         .scroller-1Bvpku {
             margin-top: 28px;
         }

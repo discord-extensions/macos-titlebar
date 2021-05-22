@@ -85,6 +85,9 @@
                 center/0% 
                 no-repeat;
 }
+.platform-win .guilds-1SWlCJ ul:focus {
+    outline: none;
+}
 .platform-win .guilds-1SWlCJ .scroller-1Bvpku {
     margin-top: 28px;
 }
