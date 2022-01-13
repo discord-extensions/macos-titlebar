@@ -1,4 +1,4 @@
-.platform-win .titleBar-AC4pGV.directionRowReverse-m8IjIq {
+.platform-win .titleBar-1it3bQ.directionRowReverse-HZatnx {
     z-index: 102;
     position: fixed;
     -webkit-box-orient: horizontal;
@@ -8,10 +8,10 @@
     width: 100%;
     height: 0;
 }
-.platform-win .titleBar-AC4pGV.directionRowReverse-m8IjIq .wordmark-2iDDfm {
+.platform-win .titleBar-1it3bQ.directionRowReverse-HZatnx .wordmark-2u86JB {
     display: none;
 }
-.platform-win .titleBar-AC4pGV.directionRowReverse-m8IjIq::after {
+.platform-win .titleBar-1it3bQ.directionRowReverse-HZatnx::after {
     content: "";
     position: absolute;
     top: 5px;
@@ -20,10 +20,10 @@
     height: 14px;
     border-radius: 25px;
 }
-.platform-win .titleBar-AC4pGV.directionRowReverse-m8IjIq:hover .winButton-iRh8-Z {
+.platform-win .titleBar-1it3bQ.directionRowReverse-HZatnx:hover .winButton-3UMjdg {
     background-size: 100%;
 }
-.platform-win .titleBar-AC4pGV.directionRowReverse-m8IjIq::before {
+.platform-win .titleBar-1it3bQ.directionRowReverse-HZatnx::before {
     content: "";
     position: absolute;
     top: -4px;
@@ -32,17 +32,17 @@
     height: 52px;
     -webkit-app-region: drag;
 }
-.platform-win .container-1r6BKw {
+.platform-win .container-ZMc96U {
     z-index: 102;
 }
-.platform-win .sidebar-2K8pFh,
-.platform-win .topic-TCb_qw.expandable-9fI_e3,
-.platform-win .pageWrapper-1PgVDX .searchBox-3Y2Vi7,
-.platform-win .pageWrapper-1PgVDX .card-3DjzTQ {
+.platform-win .sidebar-1tnWFu,
+.platform-win .topic-11NuQZ.expandable-3CaLeS,
+.platform-win .pageWrapper-2PwDoS .searchBox-pyIJJj,
+.platform-win .pageWrapper-2PwDoS .card-2TuZPZ {
     z-index: 102;
     -webkit-app-region: no-drag;
 }
-.platform-win .winButton-iRh8-Z {
+.platform-win .winButton-3UMjdg {
     z-index: 1003;
     top: 1px;
     left: 11px;
@@ -53,32 +53,32 @@
     border-radius: 25px;
     background-color: var(--background-secondary);
 }
-.platform-win .winButton-iRh8-Z svg {
+.platform-win .winButton-3UMjdg svg {
     display: none;
 }
-.platform-win .winButton-iRh8-Z:nth-child(3) {
+.platform-win .winButton-3UMjdg:nth-child(3) {
     -webkit-box-ordinal-group: 4;
         -ms-flex-order: 3;
             order: 3;
 }
-.platform-win.app-focused .winButtonClose-1HsbF- {
+.platform-win.app-focused .winButtonClose-3Q8ZH5 {
     background: #FC615D url('data:image/svg+xml;utf8,<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M15.885 6L12 9.885L8.115 6L6 8.115L9.885 12L6 15.885L8.115 18L12 14.115L15.885 18L18 15.885L14.115 12L18 8.115L15.885 6Z" fill="%237E0508"/></svg>') center/0% no-repeat;
 }
-.platform-win.app-focused .winButtonMinMax-PBQ2gm:last-child {
+.platform-win.app-focused .winButtonMinMax-3RsPUg:last-child {
     background: #FDBC40 url('data:image/svg+xml;utf8,<svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="2" y="5.5" width="8" height="1.01149" fill="%23975500"/></svg>') center/0% no-repeat;
 }
-.platform-win.app-focused .winButtonMinMax-PBQ2gm:nth-child(3) {
+.platform-win.app-focused .winButtonMinMax-3RsPUg:nth-child(3) {
     background: #34C749 url('data:image/svg+xml;utf8,<svg width="19" height="19" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M13.6045 4.2455C14.159 4.24392 14.6089 4.69384 14.6073 5.24834L14.5961 9.20755C14.5935 10.0971 13.5179 10.5408 12.8889 9.91182L8.941 5.96387C8.31201 5.33488 8.75573 4.2593 9.64526 4.25677L13.6045 4.2455Z" fill="%23006500"/><path d="M5.76201 14.0937C5.2075 14.0952 4.75759 13.6453 4.75917 13.0908L4.77043 9.1316C4.77296 8.24207 5.84854 7.79835 6.47754 8.42734L10.4255 12.3753C11.0545 13.0043 10.6108 14.0799 9.72122 14.0824L5.76201 14.0937Z" fill="%23006500"/></svg>') center/0% no-repeat;
 }
-.platform-win .guilds-1SWlCJ ul:focus {
+.platform-win .guilds-2JjMmN ul:focus {
     outline: none;
 }
-.platform-win .guilds-1SWlCJ .scroller-1Bvpku {
+.platform-win .guilds-2JjMmN .scroller-3X7KbA {
     margin-top: 28px;
 }
-.platform-win .guilds-1SWlCJ .unreadMentionsIndicatorTop-2-tcdU {
+.platform-win .guilds-2JjMmN .unreadMentionsIndicatorTop-2bTgUU {
     margin-top: 23px;
 }
-.platform-win .sidebar-2K8pFh {
+.platform-win .sidebar-1tnWFu {
     border-radius: 0;
 }
