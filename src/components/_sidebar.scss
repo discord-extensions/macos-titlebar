@@ -1,0 +1,12 @@
+.platform-win .sidebar-1tnWFu {
+    border-radius: 0;
+    .header-3OsQeK, .searchBar-3TnChZ {
+        z-index: 103;
+    }
+    .header-3OsQeK, .searchBarComponent-3N7dCG {
+        -webkit-app-region: no-drag;
+    }
+    .searchBar-3TnChZ {
+        -webkit-app-region: drag;
+    }
+}

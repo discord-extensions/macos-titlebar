@@ -1,0 +1,11 @@
+/**
+    * @name macOS Titlebar
+    * @version 2.0.0
+    * @description Replicates the Discord macOS titlebar on Windows.
+    * @author LuckFire#4800
+    *
+    * @website https://github.com/discord-extensions
+    * @source https://github.com/discord-extensions/macos-titlebar
+**/
+
+@import url('https://discord-extensions.github.io/macos-titlebar/src/source.css');
