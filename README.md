@@ -13,3 +13,6 @@ https://github.com/discord-extensions/macos-titlebar
 
 # Credits
 [Hoofer](https://github.com/HooferDevelops) for making the window button icons.
+
+# Support Server
+If you are having any issues with the theme, feel free to join the [support server](https://discord.gg/vYdXbEzqDs), or make an issue on this repository.
