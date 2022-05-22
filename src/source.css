@@ -32,16 +32,16 @@
 }
 .platform-win.app-focused .typeWindows-2-g3UY .winButtonClose-3Q8ZH5 {
   background-color: #ff5f57;
-  background-image: url('data:image/svg+xml;utf8,<svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.29289 6L2.81801 3.52513L3.52512 2.81802L5.99999 5.29289L8.47487 2.81802L9.18197 3.52513L6.7071 6L9.18197 8.47487L8.47487 9.18198L5.99999 6.70711L3.52512 9.18198L2.81801 8.47487L5.29289 6Z" fill="%23800600"/></svg>');
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNS4yOTI4OSA2TDIuODE4MDEgMy41MjUxM0wzLjUyNTEyIDIuODE4MDJMNS45OTk5OSA1LjI5Mjg5TDguNDc0ODcgMi44MTgwMkw5LjE4MTk3IDMuNTI1MTNMNi43MDcxIDZMOS4xODE5NyA4LjQ3NDg3TDguNDc0ODcgOS4xODE5OEw1Ljk5OTk5IDYuNzA3MTFMMy41MjUxMiA5LjE4MTk4TDIuODE4MDEgOC40NzQ4N0w1LjI5Mjg5IDZaIiBmaWxsPSJyZ2JhKDEyOCwgNiwgMCwgMSkiLz48L3N2Zz4=);
 }
 .platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(2n) {
   background-color: #febc2e;
-  background-image: url('data:image/svg+xml;utf8,<svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10 5.39999H2V6.59999H10V5.39999Z" fill="%23986801"/></svg>');
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTAgNS4zOTk5OUgyVjYuNTk5OTlIMTBWNS4zOTk5OVoiIGZpbGw9IiM5ODY4MDEiLz48L3N2Zz4=);
 }
 .platform-win.app-focused .typeWindows-2-g3UY .winButtonMinMax-3RsPUg:nth-child(3n) {
   order: 3;
   background-color: #28c840;
-  background-image: url('data:image/svg+xml;utf8,<svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8.58823 6.99015L5.00979 3.4117C4.85583 3.25774 4.9586 2.99422 5.17614 2.98514L8.91042 2.82931C9.05658 2.82321 9.17673 2.94335 9.17063 3.08952L9.01479 6.8238C9.00571 7.04134 8.74219 7.14411 8.58823 6.99015Z" fill="%23125E1E"/><path d="M3.41177 5.00982L6.99021 8.58827C7.14417 8.74223 7.0414 9.00575 6.82386 9.01483L3.08958 9.17066C2.94342 9.17676 2.82327 9.05661 2.82937 8.91045L2.98521 5.17617C2.99429 4.95863 3.25781 4.85586 3.41177 5.00982Z" fill="%23125E1E"/></svg>');
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNOC41ODgyMyA2Ljk5MDE1TDUuMDA5NzkgMy40MTE3QzQuODU1ODMgMy4yNTc3NCA0Ljk1ODYgMi45OTQyMiA1LjE3NjE0IDIuOTg1MTRMOC45MTA0MiAyLjgyOTMxQzkuMDU2NTggMi44MjMyMSA5LjE3NjczIDIuOTQzMzUgOS4xNzA2MyAzLjA4OTUyTDkuMDE0NzkgNi44MjM4QzkuMDA1NzEgNy4wNDEzNCA4Ljc0MjE5IDcuMTQ0MTEgOC41ODgyMyA2Ljk5MDE1WiIgZmlsbD0iIzEyNUUxRSIvPjxwYXRoIGQ9Ik0zLjQxMTc3IDUuMDA5ODJMNi45OTAyMSA4LjU4ODI3QzcuMTQ0MTcgOC43NDIyMyA3LjA0MTQgOS4wMDU3NSA2LjgyMzg2IDkuMDE0ODNMMy4wODk1OCA5LjE3MDY2QzIuOTQzNDIgOS4xNzY3NiAyLjgyMzI3IDkuMDU2NjEgMi44MjkzNyA4LjkxMDQ1TDIuOTg1MjEgNS4xNzYxN0MyLjk5NDI5IDQuOTU4NjMgMy4yNTc4MSA0Ljg1NTg2IDMuNDExNzcgNS4wMDk4MloiIGZpbGw9IiMxMjVFMUUiLz48L3N2Zz4=);
 }
 
 .guilds-2JjMmN {
@@ -64,4 +64,7 @@
 .container-ZMc96U {
   z-index: 103;
   -webkit-app-region: drag;
+}
+.container-ZMc96U .topic-11NuQZ {
+  -webkit-app-region: no-drag;
 }
