@@ -3,6 +3,7 @@
        {
            "format": "expanded",
            "extensionName": ".css",
+           "indentWidth": 4,
            "savePath": null
        }
    ],
