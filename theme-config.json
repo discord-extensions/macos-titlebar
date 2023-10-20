@@ -1,4 +1,5 @@
 {
+    "import": "https://discord-extensions.github.io/macos-titlebar/src/source.css",
     "meta": {
         "default": {
             "name": "macOS Titlebar",

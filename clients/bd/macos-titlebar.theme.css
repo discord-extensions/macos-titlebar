@@ -9,7 +9,7 @@
  * @updateUrl https://github.com/discord-extensions/macos-titlebar/blob/main/clients/macos-titlebar.theme.css
  */
 
-@import url("https://luckfire.github.io/macos-titlebar/src/source.css");
+@import url("https://discord-extensions.github.io/macos-titlebar/src/source.css");
 
 .platform-win .typeWindows-3ILlhq {
   z-index: 102;
