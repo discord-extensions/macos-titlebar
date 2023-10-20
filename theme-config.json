@@ -1,11 +1,7 @@
 {
     "import": "https://discord-extensions.github.io/macos-titlebar/src/source.css",
     "meta": {
-        "default": {
-            "name": "macOS Titlebar",
-            "author": "LuckFire",
-            "description": "Replicates the Discord macOS titlebar on Windows."
-        },
+        "name": "macOS Titlebar",
         "betterdiscord": {
             "invite": "vYdXbEzqDs",
             "authorId": "399416615742996480",
