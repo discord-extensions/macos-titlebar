@@ -1,5 +1,5 @@
 .platform-win {
-    .typeWindows-3ILlhq {
+    .typeWindows__5fa63 {
         z-index: 102;
         position: absolute;
         flex-direction: row;
@@ -11,7 +11,7 @@
         padding-right: 9px;
         padding-left: 3px;
         -webkit-app-region: drag;
-        .wordmark-3wYFg6 {
+        .wordmark__0d178 {
             top: 11px;
             left: 11px;
             width: 52px;
@@ -22,7 +22,7 @@
                 display: none;
             }
         }
-        .winButton-3SigSb {
+        .winButton__88672 {
             width: 12px;
             height: 12px;
             margin-left: 8px;
@@ -36,21 +36,21 @@
         }
     }
     &.app-focused {
-        .typeWindows-3ILlhq {
-            &:hover div.winButton-3SigSb {
+        .typeWindows__5fa63 {
+            &:hover div.winButton__88672 {
                 background-position: center;
                 background-size: 100%;
                 background-repeat: no-repeat;
             }
-            .winButtonClose-23zAIt {
+            .winButtonClose__73489 {
                 background-color: #ff5c57;
                 background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTUuMjkyODkgNkwyLjgxODAxIDMuNTI1MTNMMy41MjUxMiAyLjgxODAyTDUuOTk5OTkgNS4yOTI4OUw4LjQ3NDg3IDIuODE4MDJMOS4xODE5NyAzLjUyNTEzTDYuNzA3MSA2TDkuMTgxOTcgOC40NzQ4N0w4LjQ3NDg3IDkuMTgxOThMNS45OTk5OSA2LjcwNzExTDMuNTI1MTIgOS4xODE5OEwyLjgxODAxIDguNDc0ODdMNS4yOTI4OSA2WiIgZmlsbD0iI0EyMDAwOCIvPgo8L3N2Zz4=);
             }
-            .winButtonMinMax-nT2Irc:nth-child(2n) {
+            .winButtonMinMax__72f36:nth-child(2n) {
                 background-color: #fdbd3d;
                 background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEwIDUuMzk5OTlIMlY2LjU5OTk5SDEwVjUuMzk5OTlaIiBmaWxsPSIjQjM3MTFBIi8+Cjwvc3ZnPg==);
             }
-            .winButtonMinMax-nT2Irc:nth-child(3n) {
+            .winButtonMinMax__72f36:nth-child(3n) {
                 order: 3;
                 background-color: #26c84b;
                 background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTcuMzkyOTMgMy4wMDg5M0wzLjAwODg3IDcuMzkyOTlMMi44MTc5NSAyLjgxODAxTDcuMzkyOTMgMy4wMDg5M1oiIGZpbGw9IiMwMjZBMTUiLz4KPHBhdGggZD0iTTQuNjA2OTUgOC45OTEwMUw4Ljk5MTAxIDQuNjA2OTVMOS4xODE5MyA5LjE4MTkzTDQuNjA2OTUgOC45OTEwMVogIiBmaWxsPSIjMDI2QTE1Ii8+Cjwvc3ZnPg==);

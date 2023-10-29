@@ -1,18 +1,15 @@
 {
+    "name": "macOS Titlebar",
     "import": "https://discord-extensions.github.io/macos-titlebar/src/source.css",
-    "meta": {
-        "name": "macOS Titlebar",
-        "betterdiscord": {
-            "invite": "vYdXbEzqDs",
-            "authorId": "399416615742996480",
-            "source": "https://github.com/discord-extensions/macos-titlebar",
-            "updateUrl": "https://github.com/discord-extensions/macos-titlebar/blob/main/clients/macos-titlebar.theme.css"
-        }
+    "metas": {
+        "betterdiscord": "clients/metas/betterdiscord.json"
     },
     "dist": {
-        "clients": "clients/bd"
+        "clients": {
+            "compileFor": ["betterdiscord"]
+        }
     },
     "dev": {
-        "mode": "vencord"
+        "mod": "vencord"
     }
 }
