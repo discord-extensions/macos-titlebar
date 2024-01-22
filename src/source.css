@@ -97,6 +97,10 @@
   z-index: 103;
   -webkit-app-region: drag;
 }
-.container__11d72 .topic__16ae3, .container__11d72 .title_b7d661, .container__11d72 .nicknames__7447d > div, .container__11d72 .item_e4ca95 {
+.container__11d72 .topic__16ae3,
+.container__11d72 .title_b7d661,
+.container__11d72 .nicknames__7447d > div,
+.container__11d72 .item_e4ca95,
+.container__11d72 .titleWrapper__482dc[role=button] {
   -webkit-app-region: no-drag;
 }
