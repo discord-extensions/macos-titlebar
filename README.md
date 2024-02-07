@@ -1,20 +1,29 @@
-<img src="./assets/banner.png">
+![banner](https://discord-extensions.github.io/assets/banners/macos-titlebar.png)
 
-# Downloads
-### **[Powercord](https://powercord.dev/) & [Vizality](https://vizality.com/)**
-Head over to your **Themes folder -> open your terminal of choice -> copy-paste the following, then press enter**:
+---
+
+### ![betterdiscord](https://discord-extensions.github.io/assets/icons/betterdiscord.png) **[BetterDiscord](https://betterdiscord.app)**
+1. [Download the theme](https://github.com/discord-extensions/macos-titlebar/releases/download/betterdiscord/macos-titlebar.theme.css)
+2. Open your themes folder by going to the "BetterDiscord" category in user settings (CTRL + ,), selecting "Themes", and pressing the "Open Themes Folder" button.
+3. Drag the file into that folder.
+
+### ![vencord](https://discord-extensions.github.io/assets/icons/vencord.gif) **[Vencord](https://github.com/Vendicated/Vencord)**
+#### From URL
+1. Go to user settings (CTRL + ,)
+2. Go to the "Vencord" category in user settings (CTRL + ,), select the "Themes" tab, then select "Online Themes".
+3. In the input field under "ONLINE THEMES" paste the following URL (if you have some here already, add a comma before the url).
 ```
-git clone https://github.com/discord-extensions/macos-titlebar
+https://luckfire.github.io/macos-titlebar/src/source.css
 ```
+#### From `.theme.css` File
+1. [Download the theme](https://github.com/discord-extensions/macos-titlebar/releases/download/betterdiscord/macos-titlebar.theme.css)
+2. Open your themes folder by going to the "Vencord" category in user settings (CTRL + ,), select the "Themes" tab, and press the "Open Themes Folder" button.
+3. Drag the file into that folder.
 
-### **[BetterDiscord](https://betterdiscord.app/)**
-- [Direct Download](https://github.com/discord-extensions/macos-titlebar/releases/download/betterdiscord/macos-titlebar.theme.css)
-- [Source](https://discord-extensions.github.io/macos-titlebar/src/source.css)
+---
 
-# Contributors
-|<a href="https://github.com/HooferDevelops"><img src="https://avatars.githubusercontent.com/u/60201971?v=4" width="90px" height="90px"></a>|
-|:-:|
-|[HooferDevelops](https://github.com/HooferDevelops)|
+### License
+This theme is licensed under the MIT license. Please refer to the [LICENSE](./LICENSE) file for more details regarding rigths and limitations.
 
-# Support Server
-If you are having any issues with the theme, feel free to join the [support server](https://discord.gg/vYdXbEzqDs), or make an issue on this repository.
+### Support
+If you've ran into an issue with an area being unthemed, **PLEASE REPORT IT IN AN ISSUE**. If you have some other issue you need help with, feel free to join my [support server](https://discord.gg/vYdXbEzqDs).
