@@ -2,4 +2,8 @@
     z-index: 103;
     -webkit-app-region: drag;
     border-radius: 0;
+
+    button, .closeIcon_ae6326 {
+        -webkit-app-region: no-drag;
+    }
 }
