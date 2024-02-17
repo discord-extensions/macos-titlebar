@@ -62,6 +62,9 @@
   -webkit-app-region: drag;
   border-radius: 0;
 }
+.notice__5fd4c button, .notice__5fd4c .closeIcon_ae6326, .bd-notice:first-child button, .bd-notice:first-child .closeIcon_ae6326 {
+  -webkit-app-region: no-drag;
+}
 
 .standardSidebarView__1129a {
   z-index: unset;

@@ -2,7 +2,7 @@
  * @name macOS Titlebar
  * @author LuckFire
  * @description Replicates the Discord macOS titlebar on Windows.
- * @version 2.1.4
+ * @version 2.1.5
  * @invite vYdXbEzqDs
  * @authorId 399416615742996480
  * @source https://github.com/discord-extensions/macos-titlebar
@@ -74,6 +74,9 @@
   z-index: 103;
   -webkit-app-region: drag;
   border-radius: 0;
+}
+.notice__5fd4c button, .notice__5fd4c .closeIcon_ae6326, .bd-notice:first-child button, .bd-notice:first-child .closeIcon_ae6326 {
+  -webkit-app-region: no-drag;
 }
 
 .standardSidebarView__1129a {
