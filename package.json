@@ -15,7 +15,7 @@
     "bump:minor": "pnpm version --commit-hooks false --git-tag-version false minor",
     "bump:major": "pnpm version --commit-hooks false --git-tag-version false major"
   },
-  "dependencies": {
+  "devDependencies": {
     "theme-scss": "^1.1.4"
   }
 }
