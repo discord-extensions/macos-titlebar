@@ -6,10 +6,11 @@
   top: 1px;
   width: 100%;
   margin: 0;
-  padding-top: 12px;
+  padding-top: 12px !important;
   padding-right: 9px;
   padding-left: 3px;
   -webkit-app-region: drag;
+  background: transparent !important;
 }
 .platform-win .typeWindows_e41dab .wordmark__5b8c9 {
   top: 11px;
