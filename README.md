@@ -13,7 +13,7 @@
 2. Go to the "Vencord" category in user settings (CTRL + ,), select the "Themes" tab, then select "Online Themes".
 3. In the input field under "ONLINE THEMES" paste the following URL (if you have some here already, add a comma before the url).
 ```
-https://luckfire.github.io/macos-titlebar/src/source.css
+https://discord-extensions.github.io/macos-titlebar/src/source.css
 ```
 #### From `.theme.css` File
 1. [Download the theme](https://github.com/discord-extensions/macos-titlebar/releases/download/betterdiscord/macos-titlebar.theme.css)
