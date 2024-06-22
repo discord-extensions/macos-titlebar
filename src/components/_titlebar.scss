@@ -1,5 +1,5 @@
 .platform-win {
-    .typeWindows_e41dab {
+    .typeWindows_a934d8 {
         z-index: 102;
         position: absolute;
         flex-direction: row;
@@ -12,7 +12,7 @@
         padding-left: 3px;
         -webkit-app-region: drag;
         background: transparent !important;
-        .wordmark__5b8c9 {
+        .wordmark_a934d8 {
             top: 11px;
             left: 11px;
             width: 52px;
@@ -23,7 +23,7 @@
                 display: none;
             }
         }
-        .winButton_f17fb6 {
+        .winButton_a934d8 {
             width: 12px;
             height: 12px;
             margin-left: 8px;
@@ -37,21 +37,21 @@
         }
     }
     &.app-focused {
-        .typeWindows_e41dab {
-            &:hover div.winButton_f17fb6 {
+        .typeWindows_a934d8 {
+            &:hover div.winButton_a934d8 {
                 background-position: center;
                 background-size: 100%;
                 background-repeat: no-repeat;
             }
-            .winButtonClose__6396d {
+            .winButtonClose_a934d8 {
                 background-color: #ff5c57;
                 background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTUuMjkyODkgNkwyLjgxODAxIDMuNTI1MTNMMy41MjUxMiAyLjgxODAyTDUuOTk5OTkgNS4yOTI4OUw4LjQ3NDg3IDIuODE4MDJMOS4xODE5NyAzLjUyNTEzTDYuNzA3MSA2TDkuMTgxOTcgOC40NzQ4N0w4LjQ3NDg3IDkuMTgxOThMNS45OTk5OSA2LjcwNzExTDMuNTI1MTIgOS4xODE5OEwyLjgxODAxIDguNDc0ODdMNS4yOTI4OSA2WiIgZmlsbD0iI0EyMDAwOCIvPgo8L3N2Zz4=);
             }
-            .winButtonMinMax_caf9c8:nth-child(2n) {
+            .winButtonMinMax_a934d8:nth-child(2n) {
                 background-color: #fdbd3d;
                 background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEwIDUuMzk5OTlIMlY2LjU5OTk5SDEwVjUuMzk5OTlaIiBmaWxsPSIjQjM3MTFBIi8+Cjwvc3ZnPg==);
             }
-            .winButtonMinMax_caf9c8:nth-child(3n) {
+            .winButtonMinMax_a934d8:nth-child(3n) {
                 order: 3;
                 background-color: #26c84b;
                 background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTcuMzkyOTMgMy4wMDg5M0wzLjAwODg3IDcuMzkyOTlMMi44MTc5NSAyLjgxODAxTDcuMzkyOTMgMy4wMDg5M1oiIGZpbGw9IiMwMjZBMTUiLz4KPHBhdGggZD0iTTQuNjA2OTUgOC45OTEwMUw4Ljk5MTAxIDQuNjA2OTVMOS4xODE5MyA5LjE4MTkzTDQuNjA2OTUgOC45OTEwMVogIiBmaWxsPSIjMDI2QTE1Ii8+Cjwvc3ZnPg==);
