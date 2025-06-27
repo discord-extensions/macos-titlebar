@@ -11,7 +11,7 @@
 #### From URL
 1. Go to user settings (CTRL + ,)
 2. Go to the "Vencord" category in user settings (CTRL + ,), select the "Themes" tab, then select "Online Themes".
-3. In the input field under "ONLINE THEMES" paste the following URL (if you have some here already, add a comma before the url).
+3. In the input field under "Online Themes" paste the following URL (if you have some here already, add a comma before the url).
 ```
 https://discord-extensions.github.io/macos-titlebar/src/source.css
 ```
