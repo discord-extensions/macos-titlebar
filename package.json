@@ -1,6 +1,6 @@
 {
   "name": "macos-titlebar",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "Replicates the Discord macOS titlebar on Windows.",
   "repository": {
     "type": "git",
