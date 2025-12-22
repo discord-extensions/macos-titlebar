@@ -17,7 +17,7 @@
         width: 12px;
         height: 12px;
         border-radius: 50%;
-        background-color: var(--border-subtle);
+        background-color: var(--background-mod-subtle);
         background-size: 0;
         -webkit-app-region: no-drag;
         svg {
@@ -26,8 +26,17 @@
     }
 
     .c38106a3f0c3ca76-bar {
-        padding-left: calc(var(--custom-guild-list-width) + var(--space-8));
-        padding-right: var(--space-12);
+        padding-inline-end: var(--space-12);
+        padding-inline-start: calc(100 / var(--custom-zoom, 100) * (var(--custom-guild-list-width) + var(--space-md)));
+    }
+
+    ._5e434347c823b592-base {
+        padding-top: 1px;
+    }
+
+    ._63abbca6d53b6035-backForwardButtons {
+        min-width: unset;
+        margin-inline-start: calc(var(--custom-bf-outer-padding) * -1);
     }
 
     &.app-focused .c38106a3f0c3ca76-winButtons {
@@ -50,5 +59,22 @@
             background-color: #34c749;
             background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTcuMzkyOTMgMy4wMDg5M0wzLjAwODg3IDcuMzkyOTlMMi44MTc5NSAyLjgxODAxTDcuMzkyOTMgMy4wMDg5M1oiIGZpbGw9IiMwMjZBMTUiLz4KPHBhdGggZD0iTTQuNjA2OTUgOC45OTEwMUw4Ljk5MTAxIDQuNjA2OTVMOS4xODE5MyA5LjE4MTkzTDQuNjA2OTUgOC45OTEwMVogIiBmaWxsPSIjMDI2QTE1Ii8+Cjwvc3ZnPg==);
         }
+    }
+
+    // Layout Resets
+    ._23e6b439306f125a-contentRegionScroller {
+        margin-top: unset;
+    }
+
+    ._23e6b439306f125a-standardSidebarView,
+    ._960e4207cea8323e-bg,
+    ._960e4207cea8323e-layer,
+    .a2f5142ba8328dfd-container {
+        top: 0;
+    }
+
+    ._960e4207cea8323e-layer,
+    .a2f5142ba8328dfd-container {
+        padding-top: unset;
     }
 }
