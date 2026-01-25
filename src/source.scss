@@ -1,5 +1,5 @@
 :is(.platform-win, .platform-linux) {
-    .c38106a3f0c3ca76-winButtons {
+    .winButtons_c38106 {
         left: 0;
         width: 70px;
         padding: 10px;
@@ -9,11 +9,11 @@
         box-sizing: border-box;
     }
 
-    .c38106a3f0c3ca76-winButtonsWithDivider:before {
+    .winButtonsWithDivider_c38106:before {
         display: none;
     }
 
-    .c38106a3f0c3ca76-winButton {
+    .winButton_c38106 {
         width: 12px;
         height: 12px;
         border-radius: 50%;
@@ -25,36 +25,36 @@
         }
     }
 
-    .c38106a3f0c3ca76-bar {
+    .bar_c38106 {
         padding-inline-end: var(--space-12);
         padding-inline-start: calc(100 / var(--custom-zoom, 100) * (var(--custom-guild-list-width) + var(--space-md)));
     }
 
-    ._5e434347c823b592-base {
+    .base__5e434 {
         padding-top: 1px;
     }
 
-    ._63abbca6d53b6035-backForwardButtons {
+    .backForwardButtons__63abb {
         min-width: unset;
         margin-inline-start: calc(var(--custom-bf-outer-padding) * -1);
     }
 
-    &.app-focused .c38106a3f0c3ca76-winButtons {
-        &:hover .c38106a3f0c3ca76-winButton {
+    &.app-focused .winButtons_c38106 {
+        &:hover .winButton_c38106 {
             background-position: center;
             background-size: 100%;
             background-repeat: no-repeat;
         }
 
-        .c38106a3f0c3ca76-winButtonClose {
+        .winButtonClose_c38106 {
             background-color: #fc615d;
             background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTUuMjkyODkgNkwyLjgxODAxIDMuNTI1MTNMMy41MjUxMiAyLjgxODAyTDUuOTk5OTkgNS4yOTI4OUw4LjQ3NDg3IDIuODE4MDJMOS4xODE5NyAzLjUyNTEzTDYuNzA3MSA2TDkuMTgxOTcgOC40NzQ4N0w4LjQ3NDg3IDkuMTgxOThMNS45OTk5OSA2LjcwNzExTDMuNTI1MTIgOS4xODE5OEwyLjgxODAxIDguNDc0ODdMNS4yOTI4OSA2WiIgZmlsbD0iI0EyMDAwOCIvPgo8L3N2Zz4=);
         }
-        .c38106a3f0c3ca76-winButtonMinMax:nth-child(1) {
+        .winButtonMinMax_c38106:nth-child(1) {
             background-color: #fdbc40;
             background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEwIDUuMzk5OTlIMlY2LjU5OTk5SDEwVjUuMzk5OTlaIiBmaWxsPSIjQjM3MTFBIi8+Cjwvc3ZnPg==);
         }
-        .c38106a3f0c3ca76-winButtonMinMax:nth-child(2) {
+        .winButtonMinMax_c38106:nth-child(2) {
             order: -1;
             background-color: #34c749;
             background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTcuMzkyOTMgMy4wMDg5M0wzLjAwODg3IDcuMzkyOTlMMi44MTc5NSAyLjgxODAxTDcuMzkyOTMgMy4wMDg5M1oiIGZpbGw9IiMwMjZBMTUiLz4KPHBhdGggZD0iTTQuNjA2OTUgOC45OTEwMUw4Ljk5MTAxIDQuNjA2OTVMOS4xODE5MyA5LjE4MTkzTDQuNjA2OTUgOC45OTEwMVogIiBmaWxsPSIjMDI2QTE1Ii8+Cjwvc3ZnPg==);
@@ -62,19 +62,19 @@
     }
 
     // Layout Resets
-    ._23e6b439306f125a-contentRegionScroller {
+    .contentRegionScroller__23e6b {
         margin-top: unset;
     }
 
-    ._23e6b439306f125a-standardSidebarView,
-    ._960e4207cea8323e-bg,
-    ._960e4207cea8323e-layer,
-    .a2f5142ba8328dfd-container {
+    .standardSidebarView__23e6b,
+    .bg__960e4,
+    .layer__960e4,
+    .container_a2f514 {
         top: 0;
     }
 
-    ._960e4207cea8323e-layer,
-    .a2f5142ba8328dfd-container {
+    .layer__960e4,
+    .container_a2f514 {
         padding-top: unset;
     }
 }
