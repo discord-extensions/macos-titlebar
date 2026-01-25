@@ -1,4 +1,4 @@
-:is(.platform-win, .platform-linux) .c38106a3f0c3ca76-winButtons {
+:is(.platform-win, .platform-linux) .winButtons_c38106 {
   left: 0;
   width: 70px;
   padding: 10px;
@@ -7,10 +7,10 @@
   justify-content: space-between;
   box-sizing: border-box;
 }
-:is(.platform-win, .platform-linux) .c38106a3f0c3ca76-winButtonsWithDivider:before {
+:is(.platform-win, .platform-linux) .winButtonsWithDivider_c38106:before {
   display: none;
 }
-:is(.platform-win, .platform-linux) .c38106a3f0c3ca76-winButton {
+:is(.platform-win, .platform-linux) .winButton_c38106 {
   width: 12px;
   height: 12px;
   border-radius: 50%;
@@ -18,48 +18,48 @@
   background-size: 0;
   -webkit-app-region: no-drag;
 }
-:is(.platform-win, .platform-linux) .c38106a3f0c3ca76-winButton svg {
+:is(.platform-win, .platform-linux) .winButton_c38106 svg {
   display: none;
 }
-:is(.platform-win, .platform-linux) .c38106a3f0c3ca76-bar {
+:is(.platform-win, .platform-linux) .bar_c38106 {
   padding-inline-end: var(--space-12);
   padding-inline-start: calc(100 / var(--custom-zoom, 100) * (var(--custom-guild-list-width) + var(--space-md)));
 }
-:is(.platform-win, .platform-linux) ._5e434347c823b592-base {
+:is(.platform-win, .platform-linux) .base__5e434 {
   padding-top: 1px;
 }
-:is(.platform-win, .platform-linux) ._63abbca6d53b6035-backForwardButtons {
+:is(.platform-win, .platform-linux) .backForwardButtons__63abb {
   min-width: unset;
   margin-inline-start: calc(var(--custom-bf-outer-padding) * -1);
 }
-:is(.platform-win, .platform-linux).app-focused .c38106a3f0c3ca76-winButtons:hover .c38106a3f0c3ca76-winButton {
+:is(.platform-win, .platform-linux).app-focused .winButtons_c38106:hover .winButton_c38106 {
   background-position: center;
   background-size: 100%;
   background-repeat: no-repeat;
 }
-:is(.platform-win, .platform-linux).app-focused .c38106a3f0c3ca76-winButtons .c38106a3f0c3ca76-winButtonClose {
+:is(.platform-win, .platform-linux).app-focused .winButtons_c38106 .winButtonClose_c38106 {
   background-color: #fc615d;
   background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTUuMjkyODkgNkwyLjgxODAxIDMuNTI1MTNMMy41MjUxMiAyLjgxODAyTDUuOTk5OTkgNS4yOTI4OUw4LjQ3NDg3IDIuODE4MDJMOS4xODE5NyAzLjUyNTEzTDYuNzA3MSA2TDkuMTgxOTcgOC40NzQ4N0w4LjQ3NDg3IDkuMTgxOThMNS45OTk5OSA2LjcwNzExTDMuNTI1MTIgOS4xODE5OEwyLjgxODAxIDguNDc0ODdMNS4yOTI4OSA2WiIgZmlsbD0iI0EyMDAwOCIvPgo8L3N2Zz4=);
 }
-:is(.platform-win, .platform-linux).app-focused .c38106a3f0c3ca76-winButtons .c38106a3f0c3ca76-winButtonMinMax:nth-child(1) {
+:is(.platform-win, .platform-linux).app-focused .winButtons_c38106 .winButtonMinMax_c38106:nth-child(1) {
   background-color: #fdbc40;
   background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEwIDUuMzk5OTlIMlY2LjU5OTk5SDEwVjUuMzk5OTlaIiBmaWxsPSIjQjM3MTFBIi8+Cjwvc3ZnPg==);
 }
-:is(.platform-win, .platform-linux).app-focused .c38106a3f0c3ca76-winButtons .c38106a3f0c3ca76-winButtonMinMax:nth-child(2) {
+:is(.platform-win, .platform-linux).app-focused .winButtons_c38106 .winButtonMinMax_c38106:nth-child(2) {
   order: -1;
   background-color: #34c749;
   background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIHZpZXdCb3g9IjAgMCAxMiAxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTcuMzkyOTMgMy4wMDg5M0wzLjAwODg3IDcuMzkyOTlMMi44MTc5NSAyLjgxODAxTDcuMzkyOTMgMy4wMDg5M1oiIGZpbGw9IiMwMjZBMTUiLz4KPHBhdGggZD0iTTQuNjA2OTUgOC45OTEwMUw4Ljk5MTAxIDQuNjA2OTVMOS4xODE5MyA5LjE4MTkzTDQuNjA2OTUgOC45OTEwMVogIiBmaWxsPSIjMDI2QTE1Ii8+Cjwvc3ZnPg==);
 }
-:is(.platform-win, .platform-linux) ._23e6b439306f125a-contentRegionScroller {
+:is(.platform-win, .platform-linux) .contentRegionScroller__23e6b {
   margin-top: unset;
 }
-:is(.platform-win, .platform-linux) ._23e6b439306f125a-standardSidebarView,
-:is(.platform-win, .platform-linux) ._960e4207cea8323e-bg,
-:is(.platform-win, .platform-linux) ._960e4207cea8323e-layer,
-:is(.platform-win, .platform-linux) .a2f5142ba8328dfd-container {
+:is(.platform-win, .platform-linux) .standardSidebarView__23e6b,
+:is(.platform-win, .platform-linux) .bg__960e4,
+:is(.platform-win, .platform-linux) .layer__960e4,
+:is(.platform-win, .platform-linux) .container_a2f514 {
   top: 0;
 }
-:is(.platform-win, .platform-linux) ._960e4207cea8323e-layer,
-:is(.platform-win, .platform-linux) .a2f5142ba8328dfd-container {
+:is(.platform-win, .platform-linux) .layer__960e4,
+:is(.platform-win, .platform-linux) .container_a2f514 {
   padding-top: unset;
 }
